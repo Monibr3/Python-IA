@@ -1,0 +1,22 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.env.*
+
+# Archivos de configuracion de IDEs
+.vscode/
+.idea/
+
+# Archivos de datos y memoria
+conversaciones.json
+memory.json
+
+# Modelos descargados automáticamente por Transformers
+*.pt
+*.bin
