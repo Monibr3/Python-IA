@@ -1,0 +1,29 @@
+ =========================
+# Archivos de modelos y vectores (pesados)
+# =========================
+scr/modelos/*.pkl
+
+# =========================
+# Archivos de datos
+# =========================
+Data/*.csv
+
+# =========================
+# Archivos de Python compilados
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Configuración del sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Entornos virtuales
+# =========================
+venv/
+env/
