@@ -46,4 +46,14 @@ Este proyecto implementa un **modelo de análisis de sentimientos** capaz de cla
     python main.py
     ```
 
-**Nota:** asegúrate de que los tweets introducidos estén en **inglés** para obtener predicciones fiables.
+**Nota1:** asegúrate de que los tweets introducidos estén en **inglés** para obtener predicciones fiables.
+
+
+**Nota2:**
+## Archivo de datos
+El dataset principal utilizado se encuentra en:
+
+`https://www.kaggle.com/datasets/kazanova/sentiment140`
+
+> ⚠️ Este archivo no está incluido en el repositorio por su tamaño.  
+> Si quieres ejecutar los scripts que dependen de él, debes descargarlo manualmente o colocarlo en la ruta indicada.
