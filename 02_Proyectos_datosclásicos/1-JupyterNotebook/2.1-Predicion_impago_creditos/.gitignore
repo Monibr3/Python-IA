@@ -1,0 +1,12 @@
+# Archivos y carpetas de Jupyter
+.ipynb_checkpoints/
+virtual_documents/
+project_filebrowser.db
+
+# Configuración de Anaconda
+anaconda_projects/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
