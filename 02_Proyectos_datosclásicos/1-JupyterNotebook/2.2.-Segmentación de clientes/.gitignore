@@ -1,0 +1,16 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv-ecommerce/
+.env/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
