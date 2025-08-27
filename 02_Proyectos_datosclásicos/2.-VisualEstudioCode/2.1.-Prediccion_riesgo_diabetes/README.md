@@ -18,7 +18,7 @@ El flujo incluye:
 ```
 Prediccion_riesgo_diabetes/
 │
-├── data/                     # Carpeta para tus datasets CSV
+├── data/                     # Carpeta para los datasets CSV
 │   └── diabetes.csv          # Dataset de diabetes
 │
 ├── notebooks/                # Para experimentación o EDA
@@ -44,8 +44,9 @@ Prediccion_riesgo_diabetes/
 1. Clonar el repositorio:
 
 ```bash
-git clone 
-cd Prediccion_riesgo_diabetes
+git clone https://github.com/Monibr3/Python-IA.git
+cd Python-IA/02_Proyectos_datosclásicos/2.-VisualEstudioCode/2.1.-Prediccion_riesgo_diabetes
+
 ```
 
 2. Crear y activar entorno virtual (opcional pero recomendado):
