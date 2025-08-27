@@ -1,0 +1,28 @@
+# Entorno virtual
+venv-diabetes/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Modelos y checkpoints
+*.pkl
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Datos sensibles o grandes (opcional)
+data/*.csv
+
+# VS Code
+.vscode/
+
+# Build / paquetes
+*.egg-info/
+dist/
+build/
