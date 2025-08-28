@@ -1,0 +1,39 @@
+
+# Entorno virtual
+
+venv/
+
+# Archivos de Python compilados
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Jupyter Notebook checkpoints
+
+.ipynb\_checkpoints/
+
+# Carpeta de modelos y resultados generados
+
+models/
+
+# Archivos temporales y logs
+
+\*.log
+\*.tmp
+\*.bak
+
+# Archivos de sistema
+
+.DS\_Store
+Thumbs.db
+
+# Dependencias instaladas (si se usan entornos virtuales)
+
+pip-wheel-metadata/
+\*.egg-info/
+
+# Archivos de configuración de IDE
+
+.vscode/
+.idea/

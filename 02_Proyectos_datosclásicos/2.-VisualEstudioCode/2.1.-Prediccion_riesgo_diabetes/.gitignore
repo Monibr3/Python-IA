@@ -26,3 +26,5 @@ data/*.csv
 *.egg-info/
 dist/
 build/
+# Anaconda / configuraciones locales
+anaconda_projects/
